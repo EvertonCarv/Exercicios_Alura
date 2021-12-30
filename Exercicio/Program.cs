@@ -4,10 +4,10 @@ Console.WriteLine("Condicionais if - else");
 
 
 
-Console.WriteLine("Informe Sua Idade?");
+Console.WriteLine("Informe Sua Idade:");
 int idade = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Informe Quantidade Pessoas?");
+Console.WriteLine("Informe Quantidade Pessoas:");
 int quantidadePessoas = int.Parse(Console.ReadLine());
 
 if (idade >= 18)
